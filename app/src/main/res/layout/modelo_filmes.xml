@@ -19,7 +19,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_margin="2dp"
             android:scaleType="centerCrop"
-            android:src="#2c2c2c" />
+            android:src="@drawable/batman" />
 
         <TextView
             android:id="@+id/txtTituloFilmes"
@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="5sp"
-            android:text="Titulo Filme"
+            android:text="Batman"
             android:textColor="#000"
             android:textSize="20sp"
             android:textStyle="bold" />
